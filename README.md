@@ -8,6 +8,7 @@ This repository is currently under construction.
 
 ## Zoo
 ### Out of the box (ootb) pipelines
+* Project Name: `ootb`
 * Repo: `https://github.com/l3p-cv/lost_ootb_pipes.git`
 * Link: https://github.com/l3p-cv/lost_ootb_pipes
 
