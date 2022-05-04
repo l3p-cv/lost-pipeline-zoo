@@ -1,33 +1,26 @@
 # LOST Pipeline Zoo 
 
-Collection of out of the box pipelines for the web-based annotation framework LOST.
+Collection of pipeline projects for the web-based annotation framework LOST.
+
+Feel free to create your own pipeline project and send us a pull request.
 
 This repository is currently under construction.
 
+## Zoo
+### Out of the box (ootb) pipelines
+* Repo: `https://github.com/l3p-cv/lost_ootb_pipes.git`
+* Link: https://github.com/l3p-cv/lost_ootb_pipes
 
-## sia
-### Description
-Request single image annotations for all images of a specified data source.
-### How do I use the pipeline ?
-## mia
-### Description
-Request multi image annotations for all images of a specified data source.
-### How do I use the pipeline ?
-## sia_request_again
-### Description
-Request all annotations from a dataset file (csv or parquet) in lost_dataset format again.
-### How do I use the pipeline ?
+## How to use the pipeline zoo?
+1. Log into LOST as Admin
+2. Go to **Admin Area**
+3. Click on the **Pipeline Projects** tab
+4. Click on **Import pipeline project** button
+5. Click on **Import/ Update pipeline project from a public git repository**
+6. Add the url of the pipeline project you like to import
+7. Click on **Import/ Update**
 
-## mia_request_again
-### Description
-Request all annotations from a dataset file (csv or parquet) in lost_dataset format again.
-### How do I use the pipeline ?
-
-## two_stage
-### Description
-This pipeline represents a two stage annotation process. In a first stage bbox annotations are collected and in the second stage this bboxes will be labeled by MIA.
-### How do I use the pipeline ?
-
+![Import pipe project from url](2022-05-04-16-52-56.png)
 # Docs
 Everything you need to know about creating your own pipelines is described here:
 https://lost.readthedocs.io/en/latest/designers.html
