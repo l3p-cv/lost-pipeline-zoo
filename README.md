@@ -12,6 +12,11 @@ This repository is currently under construction.
 * Repo: `https://github.com/l3p-cv/lost_ootb_pipes.git`
 * Link: https://github.com/l3p-cv/lost_ootb_pipes
 
+### Semi-automatic pipelines with triton
+* Project Name: `triton_semi`
+* Repo: `https://github.com/l3p-cv/lost_semi_auto_pipes.git`
+* Link: https://github.com/l3p-cv/lost_semi_auto_pipes
+
 ## How to use the pipeline zoo?
 1. Log into LOST as Admin
 2. Go to **Admin Area**
