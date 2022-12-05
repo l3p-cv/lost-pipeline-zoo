@@ -29,7 +29,7 @@ This repository is currently under construction.
 ![Import pipe project from url](2022-05-04-16-52-56.png)
 # Docs
 Everything you need to know about creating your own pipelines is described here:
-https://lost.readthedocs.io/en/latest/designers.html
+https://lost.readthedocs.io/en/latest/developing_pipelines/index.html
 
-All information about pipeline projects and how to import them can be found here:
-https://lost.readthedocs.io/en/latest/all_about_pipelines.html
+Getting started information can be found here:
+https://lost.readthedocs.io/en/latest/getting_started/index.html
